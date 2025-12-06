@@ -20,4 +20,7 @@ This project implements core e-commerce features such as user authentication, pr
 - MySQL  
 - Spring Data JPA  
 - REST APIs  
-- Maven  
+- Maven
+- ## 🔧 Status
+Project code is being structured and updated.  
+Full source code will be uploaded soon.
